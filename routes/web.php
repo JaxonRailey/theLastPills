@@ -8,3 +8,4 @@ Route::get('/', function () {
 });
 
 Route::get('/about', [AboutController::class, 'index'])->name('about');
+Route::get('/contact', [AboutController::class, 'contact'])->name('contact');
