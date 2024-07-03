@@ -1,1 +1,1 @@
-<h1>Questa è la pagina Chi Siamo</h1>
+<h1>Questa è la pagina Chi Siamo, funziona</h1>
